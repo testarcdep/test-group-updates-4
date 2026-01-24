@@ -5,7 +5,7 @@
     "lodash": "4.17.20",
     "minimist": "0.0.8",
     "jquery": "3.4.1",
-    "event-stream": "3.3.6",
+    "event-stream": "4.0.0",
     "serialize-javascript": "2.1.1",
     "marked": "0.3.6"
   }

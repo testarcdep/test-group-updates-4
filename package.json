@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "lodash": "4.17.20",
-    "minimist": "0.0.8",
+    "minimist": "1.2.6",
     "jquery": "3.4.1",
     "event-stream": "3.3.6",
     "serialize-javascript": "2.1.1",
